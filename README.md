@@ -21,7 +21,7 @@ This project is a Spring Boot application designed for high-throughput trading s
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/kafka-trading-system.git
+git clone git@github.com:shishirkpd/dynamic-programming-for-trading-system.git
 ```
 ### 2. Install Dependencies
    Ensure you have Maven installed. Run the following command to install the required dependencies:
